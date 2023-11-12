@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "gh-pages": "^6.0.0",
+    "mini-create-react-context": "^0.4.1",
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.31",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
+    "tsutils": "^3.21.0",
+    "typescript": "^5.2.2",
     "web-vitals": "^2.1.4",
     "yarn": "^1.22.19"
   },
@@ -36,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
   }
 }
